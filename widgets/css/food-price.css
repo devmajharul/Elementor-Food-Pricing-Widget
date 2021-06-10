@@ -1,0 +1,53 @@
+.pricing_image_area{
+    text-align: center;
+}
+
+.pricing_image {
+    width: 100%;
+    height: 300px;
+}
+
+.pricing_image_text {
+    background: #f5f5f5;
+    padding: 15px 0 30px;
+    border-top: 2px solid #BA8333;
+    margin: 0 25px;
+    margin-top: -50px;
+    transition: 0.6s;
+}
+
+.pricing_image_text h1{
+    font-size:30px;
+    margin:10px 0 30px;
+    transition: 0.6s;
+
+}
+
+.pricing_image_text h1 span{
+    font-size:18px;
+
+}
+
+.pricing_image_text h2{
+    font-size:20px;
+    color: #BA8333;
+    transition: 0.6s;
+}
+
+.pricing_image_text h3{
+    font-size:20px;
+    font-family:cursive;
+    transition: 0.6s;
+
+}
+
+.pricing_image_text a{
+    border:2px solid #BA8333;
+    padding:6px 12px;
+    transition: 0.6s;
+}
+
+.pricing_image_text:hover{
+    background: #BA8333;
+    border-top: 2px solid #BA8333;
+}
